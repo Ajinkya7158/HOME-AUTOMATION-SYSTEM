@@ -37,4 +37,6 @@ forward-looking solution to modern living.
 
 # OUTPUT OF THE TASK 
 
+![Image](https://github.com/user-attachments/assets/222baee0-1f6c-43bf-bbde-7db4a7d77c55)
+
 
